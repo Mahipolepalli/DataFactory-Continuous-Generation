@@ -1,0 +1,9 @@
+{
+	"name": "dfmahika",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5278dabe-8594-4d5b-ae69-d3c1048bba38",
+		"tenantId": "734bc3b3-5f14-49f7-a817-85c51014064d"
+	}
+}
